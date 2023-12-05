@@ -1,5 +1,8 @@
 # EECS-3401-Netflix
 
+
+**Logistic Regression was intended instead of Linear Regression in the report and video analysis. Apologies for the confusion**
+
 ## Problem Framing:
 ### Objective:
 
