@@ -1,4 +1,4 @@
-# EECS-3401-Netflix
+# Netfliz EDA
 
 
 **Logistic Regression was intended instead of Linear Regression in the report and video analysis. Apologies for the confusion**
