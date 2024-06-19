@@ -1,5 +1,5 @@
 # Netflix Dataset EDA
-
+#### This is our EECS 3401 Final Project
 
 **Logistic Regression was intended instead of Linear Regression in the report and video analysis. Apologies for the confusion**
 
