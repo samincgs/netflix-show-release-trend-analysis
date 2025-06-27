@@ -48,4 +48,4 @@ Understand and gain insights from the movies and TV shows data on the Netflix pl
 - Summaries and reports answering key questions and providing actionable insights.
 
 ### Conclusion
-The Random Forest classifier proved to be the most effective model for predicting content types in the Netflix dataset. It demonstrated strong overall performance, accurately distinguishing between Movies and TV Shows while maintaining a good balance across key evaluation metrics. 
+The Random Forest classifier proved to be the most effective model for predicting content types in the Netflix dataset. It demonstrated strong performance across key evaluation metrics and provided valuable interpretability through feature importance analysis. Notably, the "listed_in" feature played a dominant role in classification, highlighting the influence of content categories in distinguishing between Movies and TV Shows. Overall, the analysis shows that machine learning can offer accurate predictions and meaningful insights when applied thoughtfully to streaming data.
