@@ -1,7 +1,9 @@
-# Netflix Dataset EDA
-#### This is our EECS 3401 Final Project
+# Netflix Show Release Trend Analysis
 
-**Logistic Regression was intended instead of Linear Regression in the report and video analysis. Apologies for the confusion**
+ ![netflix-project-thumbnail](https://github.com/user-attachments/assets/a459dfd5-0a32-4e82-9289-2728d2459d6d)
+
+
+#### This is our EECS 3401 Final Project
 
 ## Problem Framing:
 ### Objective:
